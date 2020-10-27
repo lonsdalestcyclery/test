@@ -3,7 +3,7 @@
 var widthPx, heightPx, widthEm, heightEm;
 
 var init = function(){
-
+  alert('Hi');
   // Inject the Div
   setupFitWeird();
 
